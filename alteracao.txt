@@ -1,0 +1,8 @@
+arquivo criado somente para testar .gitignore
+
+passo 1 -> criar um arquivo .gitignore na raiz do repo, se ele nao exisitir
+passo 2 -> abrir o arquivo e acrescentar os arquivos indesejados para o commit, neste caso: `package-lock.json` e `package.json`
+passo 3 -> salvar e fechar o arquivo `.gitignore`
+passo 4 -> adicionar o arquivo desejado para o repo
+passo 5 -> fazer o commit
+(opcional) passo 6 -> fazer o push para o repositorio no github
